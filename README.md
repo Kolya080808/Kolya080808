@@ -33,7 +33,7 @@ I know LPE, Web, forensics at an excellent level, I know a little bit of PWN, re
 I use Windows 10 22h2 and WSL Kali Linux, I want to switch to Arch, but I'm too lazy to relearn and transfer data..)
 I have an account on [TryHackMe](https://tryhackme.com/r/p/Kolya080808), [picoCTF](https://play.picoctf.org/users/n1ko123), [HackTheBox](https://app.hackthebox.com/users/2131650). I practice most on thm, but pico also has good tasks. I solve something on HackTheBox only if there is nothing interesting on the other websites i've mentioned before.
 
-##### ~P.S.:~
+## ~P.S.:~
 
 Although, I would say that I am still quite weak in information security, but looking at the telegram channel history before this message, you can say that I have advanced quite far in 3-4 months. In any case, I will continue to learn to solve more complex problems and constantly improve!
 
