@@ -1,4 +1,4 @@
-## Boo!
+![image](https://github.com/user-attachments/assets/fd66991d-f50e-48be-ae11-b4b00baa5174)## Boo!
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there+%F0%9F%91%8B+;Yep%2C+that's+github.com%2FKolya080808+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4" alt="Typing SVG" /></a></p>
 
@@ -11,7 +11,7 @@ So now I'm here, on [github](https://t.me/bezhopasnik), telling you who I am and
 ### Also something that i need to say (~no~):
 <p align="center"><a href="https://mynickname.com/id1824455"><img src="https://mynickname.com/img.php?nick=Kolya080808&sert=25&text=t4" /></a></p>
 <p align="center">The tryhackme live updating frame:</p>
-<p align="center"><a href="https://tryhackme.com/r/p/Kolya080808"><img src="https://tryhackme-badges.s3.amazonaws.com/Kolya080808.png" alt="Your Image Badge" /></a></p>
+<p align="center"><a href="https://tryhackme.com/r/p/Kolya080808"><img src="https://github.com/user-attachments/assets/9d4b7af3-b30e-4635-b6a4-51af81b9c8ed" alt="Your Image Badge" /></a></p>
 <p align="center">And just a <a href="https://play.picoctf.org/user/n1ko123">picoCTF profile hyperlink</a>.</p>
 
 ## _Now about what I know:_
