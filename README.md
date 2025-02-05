@@ -11,7 +11,7 @@ So now I'm here, on [github](https://t.me/bezhopasnik), telling you who I am and
 ### Also something that i need to say (~no~):
 <p align="center"><a href="https://mynickname.com/id1824455"><img src="https://mynickname.com/img.php?nick=Kolya080808&sert=25&text=t4" /></a></p>
 <p align="center">The tryhackme live updating frame:</p>
-<p align="center"><a href="https://tryhackme.com/r/p/Kolya080808"><img src="https://tryhackme-badges.s3.amazonaws.com/Kolya080808.png" alt="Your Image Badge" /></a></p>
+<p align="center"><a href="https://tryhackme.com/r/p/Kolya080808"><img src="https://github.com/user-attachments/assets/a4135780-0005-48db-8fc7-a43ed8ee1a17" alt="Your Image Badge" /></a></p>
 <p align="center">And just a <a href="https://play.picoctf.org/user/n1ko123">picoCTF profile hyperlink</a>.</p>
 
 ## _Now about what I know:_
