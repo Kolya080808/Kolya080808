@@ -6,12 +6,12 @@
 
 My name is Nikolai Kravtsov. I am `time.localtime() - time.striptime(“Mon, 8 Aug 2008 00:15:00”,"%a, %d %b %Y %H:%M:%S)` years old. From early childhood I loved physics, astronomy and expressed the strongest interest in programs, or rather in their root - “How do they work?”, “Why do they work?” - these were very interesting questions for me. From the age of 10 I started to learn the basics of ethical hacking - UNIX-systems, servers, basic distributions and the simplest vulnerabilities. From 12 I started learning Python, and I learned it to the level of “I can write something myself” literally in a day, and to the level of “I can solve simple tasks from interviews” in two weeks. 
 
-So now I'm here, on [github](https://t.me/bezhopasnik), telling you who I am and why I'm here (*by the way! my brother-fullstack is making a portfolio site for our team, though it won't be soon, but wait ¯\_(ツ)_/¯*). 
+So now I'm here, on [github](https://github.com/Kolya080808), telling you who I am and why I'm here (*by the way! my brother-fullstack is making a portfolio site for our team, though it won't be soon, but wait ¯\_(ツ)_/¯*). 
 
 ### Also something that i need to say (~no~):
 <p align="center"><a href="https://mynickname.com/id1824455"><img src="https://mynickname.com/img.php?nick=Kolya080808&sert=25&text=t4" /></a></p>
 <p align="center">The tryhackme live updating frame:</p>
-<p align="center"><a href="https://tryhackme.com/r/p/Kolya080808"><img src="https://github.com/user-attachments/assets/a4135780-0005-48db-8fc7-a43ed8ee1a17" alt="Your Image Badge" /></a></p>
+<p align="center"><a href="https://tryhackme.com/r/p/Kolya080808"><img src="https://tryhackme-badges.s3.amazonaws.com/Kolya080808.png" alt="Your Image Badge" /></p>
 <p align="center">And just a <a href="https://play.picoctf.org/user/n1ko123">picoCTF profile hyperlink</a>.</p>
 
 ## _Now about what I know:_
