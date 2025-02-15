@@ -9,10 +9,16 @@ My name is Nikolai Kravtsov. I am `time.localtime() - time.striptime(“Mon, 8 A
 So now I'm here, on [github](https://github.com/Kolya080808), telling you who I am and why I'm here (*by the way! my brother-fullstack is making a portfolio site for our team, though it won't be soon, but wait ¯\_(ツ)_/¯*). 
 
 ### Also something that i need to say (~no~):
+#### Interesting links:
+
 <p align="center"><a href="https://mynickname.com/id1824455"><img src="https://mynickname.com/img.php?nick=Kolya080808&sert=25&text=t4" /></a></p>
 <p align="center">The tryhackme live updating frame:</p>
 <p align="center"><a href="https://tryhackme.com/r/p/Kolya080808"><img src="https://tryhackme-badges.s3.amazonaws.com/Kolya080808.png" alt="Your Image Badge" /></p>
 <p align="center">And just a <a href="https://play.picoctf.org/user/n1ko123">picoCTF profile hyperlink</a>.</p>
+
+#### GitHub stats:
+
+![Kolya080808 GitHub stats](https://github-readme-stats.vercel.app/api?username=kolya080808&show_icons=true&theme=dark)
 
 ## _Now about what I know:_
 
