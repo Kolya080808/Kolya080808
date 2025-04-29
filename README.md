@@ -13,9 +13,9 @@ So now I'm here, on [github](https://github.com/Kolya080808), telling you who I 
 
 <p align="center"><a href="https://mynickname.com/id1824455"><img src="https://mynickname.com/img.php?nick=Kolya080808&sert=25&text=t4" /></a></p>
 <p align="center">The tryhackme live updating frame:</p>
-<p align="center"><a href="https://tryhackme.com/r/p/Kolya080808"><img src="https://tryhackme-badges.s3.amazonaws.com/Kolya080808.png?update=123" alt="Your Image Badge" /></p>
+<p align="center"><a href="https://tryhackme.com/r/p/Kolya080808"><img src="https://tryhackme-badges.s3.amazonaws.com/Kolya080808.png?update=1234" alt="Your Image Badge" /></p>
 <p align="center">And just a <a href="https://play.picoctf.org/users/n1ko123">picoCTF profile hyperlink</a>and photo:</p>
-<p align="center"><img src="https://github.com/user-attachments/assets/d93d6ca6-2e3b-4dae-9edc-cee15c305826" /></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/76c704db-9c0b-4955-afa3-52e76e721d92" /></p>
 
 
 #### GitHub stats:
