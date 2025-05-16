@@ -17,8 +17,6 @@ So now I'm here, on [github](https://github.com/Kolya080808), telling you who I 
 <p align="center">And just a <a href="https://play.picoctf.org/users/n1ko123">picoCTF profile hyperlink</a>and photo:</p>
 <p align="center"><img src="https://github.com/user-attachments/assets/67e1a730-3bee-40fb-9eb3-988530ab331d" /></p>
 
-![image](https://github.com/user-attachments/assets/67e1a730-3bee-40fb-9eb3-988530ab331d)
-
 #### GitHub stats:
 
 ![Kolya080808 GitHub stats](https://github-readme-stats.vercel.app/api?username=kolya080808&show_icons=true&theme=dark)
