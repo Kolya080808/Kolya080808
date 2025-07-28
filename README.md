@@ -46,6 +46,7 @@ I have an account on [TryHackMe](https://tryhackme.com/r/p/Kolya080808), [picoCT
 - Finalist of Innopolis Open International Olympiad on Information Security
 - Finalist of UgraCTF
 - Finalist of the Open Online Tatarstan Republic Information Security Tournament GO CTF 2025.
+- Participant of the Second WWCTF (47th place).
 
 ## ~P.S.:~
 
