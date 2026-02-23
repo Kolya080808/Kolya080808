@@ -43,8 +43,9 @@ I have an account on [TryHackMe](https://tryhackme.com/r/p/Kolya080808), [picoCT
 ## Some achievements so far:
 
 - Prize winner of the National Technological Olympiad on Information Security 24/25
-- Finalist of Innopolis Open International Olympiad on Information Security
-- Finalist of UgraCTF
+- Prize winner of Innopolis Open International Olympiad on Information Security 25/26
+- Finalist of Innopolis Open International Olympiad on Information Security 24/25
+- Finalist of UgraCTF 24/25
 - Finalist of the Open Online Tatarstan Republic Information Security Tournament GO CTF 2025
 - Participant of the Second WWCTF (47th place)
 - Finalist of the National Technological Olympiad on Information Security 25/26.
