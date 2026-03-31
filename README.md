@@ -19,7 +19,7 @@ So now I'm here, on [github](https://github.com/Kolya080808), telling you who I 
 
 #### GitHub stats:
 
-![Kolya080808 GitHub stats](https://github-readme-stats.vercel.app/api?username=kolya080808&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Kolya080808&theme=dark)](https://git.io/streak-stats)
 
 ## _Now about what I know:_
 
