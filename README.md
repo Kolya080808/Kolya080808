@@ -43,12 +43,14 @@ I have an account on [TryHackMe](https://tryhackme.com/r/p/Kolya080808), [picoCT
 ## Some achievements so far:
 
 - Prize winner of the National Technological Olympiad on Information Security 24/25
-- Prize winner of Innopolis Open International Olympiad on Information Security 25/26
+- Prize winner of Moscow Pre-professional Olympiad on practice "Engineering" 25/26
+- Finalist of Innopolis Open International Olympiad on Information Security 25/26
 - Finalist of Innopolis Open International Olympiad on Information Security 24/25
 - Finalist of UgraCTF 24/25
 - Finalist of the Open Online Tatarstan Republic Information Security Tournament GO CTF 2025
 - Participant of the Second WWCTF (47th place)
-- Finalist of the National Technological Olympiad on Information Security 25/26.
+- Finalist of the National Technological Olympiad on Information Security 25/26
+- Top-hacker of Rambler&Co ([click](https://bugbounty.standoff365.com/programs/portal_rambler?tab=4)) 25/26.
 
 ## ~P.S.:~
 
