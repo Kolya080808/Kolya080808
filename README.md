@@ -17,6 +17,10 @@ So now I'm here, on [github](https://github.com/Kolya080808), telling you who I 
 <p align="center">And just a <a href="https://play.picoctf.org/users/n1ko123">picoCTF profile hyperlink</a> and photo:</p>
 <p align="center"><img src="https://github.com/user-attachments/assets/109069a1-c7a1-4ae0-89d1-bd099d61a239" /></p>
 
+It’s also worth including a link to the VPN I’ve set up (you can pay with crypto there):
+
+[Dream Catcher VPN](dream-catcher-project.ru).
+
 #### GitHub stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kolya080808&theme=dark)](https://git.io/streak-stats)
