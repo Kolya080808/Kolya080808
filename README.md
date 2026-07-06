@@ -15,7 +15,7 @@ So now I'm here, on [github](https://github.com/Kolya080808), telling you who I 
 <p align="center">The tryhackme live updating frame:</p>
 <p align="center"><a href="https://tryhackme.com/r/p/Kolya080808"><img width="323" height="80" alt="image" src="https://github.com/user-attachments/assets/a9e26ec7-5bac-474a-bb29-2741166a4317" /></p>
 <p align="center">And just a <a href="https://play.picoctf.org/users/n1ko123">picoCTF profile hyperlink</a> and photo:</p>
-<p align="center"><img src="https://github.com/user-attachments/assets/109069a1-c7a1-4ae0-89d1-bd099d61a239" /></p>
+<p align="center"><img width="1042" height="255" alt="image" src="https://github.com/user-attachments/assets/73fb609e-1622-4ea6-80c7-d75bba4e2c41" /></p>
 
 It’s also worth including a link to the VPN I’ve set up (you can pay with crypto there):
 
