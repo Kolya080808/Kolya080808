@@ -55,7 +55,7 @@ I have an account on [TryHackMe](https://tryhackme.com/r/p/Kolya080808), [picoCT
 
 ## ~P.S.:~
 
-Although, I would say that I am still quite weak in information security, but looking at the telegram channel history after this message, you can say that I have advanced quite far in several months. In any case, I will continue to learn to solve more complex problems and constantly improve!
+Although, I would say that I am still quite weak in information security, but looking at the telegram channel history after this message, you can say that I have advanced quite far in several years. In any case, I will continue to learn to solve more complex problems and constantly improve!
 
 If you have any questions, or I forgot to add something about myself, write in the comments, I will do it)
 
