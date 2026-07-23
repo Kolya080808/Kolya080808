@@ -4,7 +4,7 @@
 
 ## _Let me tell you a bit about me:_
 
-My name is Nikolai Kravtsov. I am `python3 -c 'import time; print((time.time() - time.mktime(time.strptime("Mon, 8 Aug 2008 00:15:00", "%a, %d %b %Y %H:%M:%S")))/(60*60*24*365))'` years old. From early childhood I loved physics, astronomy and expressed the strongest interest in programs, or rather in their root - “How do they work?”, “Why do they work?” - these were very interesting questions for me. From the age of 10 I started to learn the basics of ethical hacking - UNIX-systems, servers, basic distributions and the simplest vulnerabilities. From 12 I started learning Python, and I learned it to the level of “I can write something myself” literally in a day, and to the level of “I can solve simple tasks from interviews” in two weeks. 
+My name is Nikolay Kravtsov. I am `python3 -c 'import time; print((time.time() - time.mktime(time.strptime("Mon, 8 Aug 2008 00:15:00", "%a, %d %b %Y %H:%M:%S")))/(60*60*24*365))'` years old. From early childhood I loved physics, astronomy and expressed the strongest interest in programs, or rather in their root - “How do they work?”, “Why do they work?” - these were very interesting questions for me. From the age of 10 I started to learn the basics of ethical hacking - UNIX-systems, servers, basic distributions and the simplest vulnerabilities. From 12 I started learning Python, and I learned it to the level of “I can write something myself” literally in a day, and to the level of “I can solve simple tasks from interviews” in two weeks. 
 
 So now I'm here, on [github](https://github.com/Kolya080808), telling you who I am and why I'm here (*By the way! I'm really glad I got into cybersecurity the year I should have ¯\_(ツ)_/¯  *). 
 
