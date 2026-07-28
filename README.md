@@ -20,7 +20,7 @@ So now I'm here, on [github](https://github.com/Kolya080808), telling you who I 
 
 #### GitHub stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kolya080808&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github.com/Kolya080808/Kolya080808/raw/main/profile/streak.svg" alt="GitHub Streak" /></a>
 
 ## _Now about what I know:_
 
