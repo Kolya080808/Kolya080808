@@ -51,13 +51,15 @@ I have an account on [TryHackMe](https://tryhackme.com/r/p/Kolya080808), [picoCT
 - Finalist of the Open Online Tatarstan Republic Information Security Tournament GO CTF 2025
 - Participant of the Second WWCTF (47th place)
 - Finalist of the National Technological Olympiad on Information Security 25/26
-- Top-hacker of Rambler&Co ([click](https://bugbounty.standoff365.com/programs/portal_rambler?tab=4)) 25/26.
+- Top hacker Rambler&Co ([click](https://bugbounty.standoff365.com/programs/portal_rambler?tab=4) — currently in 2nd place) 25/26
+- Was the first to create an independent PoC for CVE-2026-97332 ([click](https://www.cve.org/CVERecord?id=CVE-2026-97332) - link in References)
+- Participated in the research and registration of CVE-2026-108093 ([click](https://www.cve.org/CVERecord?id=CVE-2026-108093)).
 
 ## ~P.S.:~
 
-Although, I would say that I am still quite weak in information security, but looking at the telegram channel history after this message, you can say that I have advanced quite far in several years. In any case, I will continue to learn to solve more complex problems and constantly improve!
+Although, I would say that I am still Junior in information security, but looking at the telegram channel history after [this message](https://t.me/bezhopasnik/489), you can say that I have advanced quite far in several years. In any case, I will continue to learn to solve more complex problems and constantly improve!
 
-If you have any questions, or I forgot to add something about myself, write in the comments, I will do it)
+If you have any questions, or I forgot to add something about myself, write in the [comments](https://t.me/bezhopasnik/489), I will do it)
 
 
 
