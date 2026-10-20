@@ -57,7 +57,7 @@ I have an account on [TryHackMe](https://tryhackme.com/r/p/Kolya080808), [picoCT
 
 ## ~P.S.:~
 
-Although, I would say that I am still Junior in information security, but looking at the telegram channel history after [this message](https://t.me/bezhopasnik/489), you can say that I have advanced quite far in several years. In any case, I will continue to learn to solve more complex problems and constantly improve!
+Although, I would say that I am rn Junior in information security, but looking at the telegram channel history after [this message](https://t.me/bezhopasnik/489), you can say that I have advanced quite far in several years. In any case, I will continue to learn to solve more complex problems and constantly improve!
 
 If you have any questions, or I forgot to add something about myself, write in the [comments](https://t.me/bezhopasnik/489), I will do it)
 
