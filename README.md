@@ -53,7 +53,7 @@ I have an account on [TryHackMe](https://tryhackme.com/r/p/Kolya080808), [picoCT
 - Finalist of the National Technological Olympiad on Information Security 25/26
 - Top hacker Rambler&Co ([click](https://bugbounty.standoff365.com/programs/portal_rambler?tab=4) — currently in 2nd place) 25/26
 - Was the first to create an independent PoC for CVE-2026-97332 ([click](https://www.cve.org/CVERecord?id=CVE-2026-97332) - link in References)
-- Participated in the research and registration of multiple CVEs ([click](https://www.cve.org/CVERecord/SearchResults?query=kolya080808) - rn there are 6 of them).
+- Participated in the research and registration of multiple CVEs ([click](https://www.cve.org/CVERecord/SearchResults?query=kolya080808) - link in Credits - rn there are 6 of them).
 
 ## ~P.S.:~
 
