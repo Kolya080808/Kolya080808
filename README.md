@@ -45,6 +45,7 @@ I have an account on [TryHackMe](https://tryhackme.com/r/p/Kolya080808), [picoCT
 
 - Prize winner of the National Technological Olympiad on Information Security 24/25
 - Prize winner of Moscow Pre-professional Olympiad on practice "Engineering" 25/26
+- Prize winner (3rd place) of the Open Online Tatarstan Republic Information Security Tournament GO CTF 2026 26/27
 - Finalist of Innopolis Open International Olympiad on Information Security 25/26
 - Finalist of Innopolis Open International Olympiad on Information Security 24/25
 - Finalist of UgraCTF 24/25
