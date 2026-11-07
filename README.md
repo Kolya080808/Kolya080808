@@ -13,7 +13,7 @@ So now I'm here, on [github](https://github.com/Kolya080808), telling you who I 
 
 <p align="center"><a href="https://mynickname.com/kolya080808"><img src="https://mynickname.com/img.php?nick=Kolya080808&sert=25&text=t4" /></a></p>
 <p align="center">The tryhackme live updating frame:</p>
-<p align="center"><a href="https://tryhackme.com/r/p/Kolya080808"><img width="323" height="80" alt="image" src="https://cdn-images.tryhackme.com/public-profile/Kolya080808/badge-dark-abd80a589ad9.png" /></p>
+<p align="center"><a href="https://tryhackme.com/r/p/Kolya080808"><img width="323" alt="image" src="https://cdn-images.tryhackme.com/public-profile/Kolya080808/badge-dark-abd80a589ad9.png" /></p>
 <p align="center">And just a <a href="https://play.picoctf.org/users/n1ko123">picoCTF profile hyperlink</a> and photo:</p>
 <p align="center"><img width="1042" height="255" alt="image" src="https://github.com/user-attachments/assets/73fb609e-1622-4ea6-80c7-d75bba4e2c41" /></p>
 
