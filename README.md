@@ -39,7 +39,7 @@ I know LPE, Web, forensics at an excellent level, I know a little bit of PWN, re
 ### Where do I train and what do I use?
 
 I use Windows 10 22h2 and WSL Kali Linux, I want to switch to Arch, but I'm too lazy to relearn and transfer data..)
-I have an account on [TryHackMe](https://tryhackme.com/r/p/Kolya080808), [picoCTF](https://play.picoctf.org/users/n1ko123), [HackTheBox](https://app.hackthebox.com/users/2131650). I practice most on thm, but pico also has good tasks. I solve something on HackTheBox only if there is nothing interesting on the other websites i've mentioned before.
+I have an account on [TryHackMe](https://tryhackme.com/r/p/Kolya080808), [picoCTF](https://learn.cylabacademy.org/users/n1ko123), [HackTheBox](https://app.hackthebox.com/users/2131650). I practice most on thm, but pico also has good tasks. I solve something on HackTheBox only if there is nothing interesting on the other websites i've mentioned before.
 
 ## Some achievements so far:
 
