@@ -59,7 +59,7 @@ I have an account on [TryHackMe](https://tryhackme.com/r/p/Kolya080808), [picoCT
 
 ## ~P.S.:~
 
-Rn I'm in the mus0r_dr0p CTF team as a captain.
+Rn I'm in the mus0r_6r0p CTF team as a captain.
 
 
 
