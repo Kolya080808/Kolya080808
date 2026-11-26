@@ -63,8 +63,8 @@ I have an account on [TryHackMe](https://tryhackme.com/r/p/Kolya080808), [picoCT
 ##### CTF
 
 - Prize-winner (3rd place) of the Open online tournament of the Republic of Tatarstan on information security GO CTF 2026 26/27
-- Narxoz CTF — 3rd place, 2026
-- Standoff Young — 2nd place, 2026
+- Prize winner (3rd place) of the International Tournament Narxoz CTF 2026
+- Prize winner (2nd place) of Standoff Young 2026
 - UgraCTF finalist, 24/25
 - Finalist of the Open online tournament of the Republic of Tatarstan for information security GO CTF 2025
 - Participant of the second WWCTF (47th place)
