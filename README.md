@@ -43,19 +43,37 @@ I have an account on [TryHackMe](https://tryhackme.com/r/p/Kolya080808), [picoCT
 
 ## Some achievements so far:
 
-- Prize winner of the National Technological Olympiad on Information Security 24/25
-- Prize winner of Moscow Pre-professional Olympiad on practice "Engineering" 25/26
-- Prize winner (3rd place) of the Open Online Tatarstan Republic Information Security Tournament GO CTF 2026 26/27
-- Prize winner (3rd place) of the International Tournament Narxoz CTF 26/27
-- Finalist of Innopolis Open International Olympiad on Information Security 25/26
-- Finalist of Innopolis Open International Olympiad on Information Security 24/25
-- Finalist of UgraCTF 24/25
-- Finalist of the Open Online Tatarstan Republic Information Security Tournament GO CTF 2025
-- Participant of the Second WWCTF (47th place)
-- Finalist of the National Technological Olympiad on Information Security 25/26
-- Top hacker Rambler&Co ([click](https://bugbounty.standoff365.com/programs/portal_rambler?tab=4) — currently in 2nd place) 25/26
-- Was the first to create an independent PoC for CVE-2026-97332 ([click](https://www.cve.org/CVERecord?id=CVE-2026-97332) - link in References)
-- Participated in the research and registration of multiple CVEs ([click](https://www.cve.org/CVERecord/SearchResults?query=kolya080808) - in Credits - rn there are 6 of them).
+### Olympiads
+
+#### IT
+
+- Prize-winner of the National Technology Olympiad in Information Security 24/25
+- Finalist of the International Olympiad on Information Security “Innopolis Open” 25/26
+- Finalist of the International Olympiad on Information Security “Innopolis Open” 24/25
+- Finalist of the National Technology Olympiad in Information Security 25/26
+
+#### Engineering
+
+- Prize winner in the Engineering track of the Moscow Pre-Professional Olympiad for School Students, 25/26
+
+### CTF and other achievements
+
+#### IT
+
+##### CTF
+
+- Prize-winner (3rd place) of the Open online tournament of the Republic of Tatarstan on information security GO CTF 2026 26/27
+- Narxoz CTF — 3rd place, 2026
+- Standoff Young — 2nd place, 2026
+- UgraCTF finalist, 24/25
+- Finalist of the Open online tournament of the Republic of Tatarstan for information security GO CTF 2025
+- Participant of the second WWCTF (47th place)
+
+##### Research and bug bounty
+
+- Top hacker at Rambler&Co ([link](https://bugbounty.standoff365.com/programs/portal_rambler?tab=4) - currently in 2nd place) 25/26
+- I was the first to create an independent PoC for CVE-2026-97332 ([link](https://www.cve.org/CVERecord?id=CVE-2026-97332) - link in References)
+- I contributed to the research and registration of several CVEs ([link](https://www.cve.org/CVERecord/SearchResults?query=kolya080808) - listed in the credits of six CVEs so far).
 
 ## ~P.S.:~
 
