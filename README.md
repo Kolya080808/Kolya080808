@@ -55,6 +55,8 @@ I have an account on [TryHackMe](https://tryhackme.com/r/p/Kolya080808), [picoCT
 #### Engineering
 
 - Prize winner in the Engineering track of the Moscow Pre-Professional Olympiad for School Students, 25/26
+- Finalist in the Aerospace track of the Moscow Pre-Professional Olympiad for School Students, 24/25
+- Finalist of the National Technology Olympiad in satellite systems 25/26
 
 ### CTF and other achievements
 
